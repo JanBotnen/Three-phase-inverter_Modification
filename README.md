@@ -17,5 +17,3 @@ Building upon their work, our bachelor group aimed to prepare the inverter for f
 Throughout this project, our primary goal has been to implement current measurement on all three phases and enable encoder input handling for rotor position feedback.
 
 
-Our thesis can be found at: 
-
