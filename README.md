@@ -15,5 +15,3 @@ Version 2 : [HVL Open](https://hdl.handle.net/11250/3147156)
 
 Building upon their work, our bachelor group aimed to prepare the inverter for future implementation of Field Oriented Control (FOC).  
 Throughout this project, our primary goal has been to implement current measurement on all three phases and enable encoder input handling for rotor position feedback.
-
-Currently the main project schematic files is not uploaded to this repository, but can be obtained through the projects supervisor. 
