@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SVPWM-LIB-footprints")(type "KiCad")(uri "${KIPRJMOD}/LIB-footprints")(options "")(descr ""))
+  (lib (name "_Library_Nytt")(type "KiCad")(uri "${KIPRJMOD}/_LIB_V25/_Library_Nytt.pretty")(options "")(descr ""))
+  (lib (name "Encoder_chip")(type "KiCad")(uri "${KIPRJMOD}/_LIB_V25/_Library_Nytt.pretty/Encoder_chip.pretty")(options "")(descr ""))
+  (lib (name "FootprintLib_ErlingOgHaraldV24")(type "KiCad")(uri "${KIPRJMOD}/FootprintLib_ErlingOgHaraldV24.pretty")(options "")(descr ""))
+)
